@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2,
+    "title": "flight to Paris",
+    "time": "5pm",
+    "price": 35000,
+    "date": "27-06-2022"
+  },
+  {
+    "id": 3,
+    "title": "flight to Dubai",
+    "time": "10am",
+    "price": 52000,
+    "date": "28-06-2022"
+  },
+  {
+    "id": 5,
+    "title": "flight to Manchester",
+    "time": "3pm",
+    "price": 26000,
+    "date": "30-06-2022"
+  },
+  {
+    "id": 7,
+    "title": "flight to Miami",
+    "time": "7pm",
+    "price": 26000,
+    "date": "27-06-2022"
+  },
+  {
+    "id": 8,
+    "title": "flight to Enugu",
+    "time": "4pm",
+    "price": 21000,
+    "date": "27-06-2022"
+  },
+  {
+    "id": 10,
+    "title": "flight to Ibadan",
+    "time": "4pm",
+    "price": 21000,
+    "date": "27-06-2022"
+  }
+]
